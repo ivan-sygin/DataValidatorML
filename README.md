@@ -12,7 +12,7 @@
 # Примеры использования
 Инициализация файла:
 ```python
-    data = FileWithData('data.csv') # инициализация класса
+    data = FileWithData('data.csv')
 ```
 Удаление пустых столбцов:
 ```python
